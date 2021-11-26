@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "src": "imgs/bf-1.jpg",
+    "title": "Buttermilk Pancakes",
+    "text": "I'm baby farm-to-table mustache fam pug jianbing. Cronut prism kitsch green juice pickled. Keytar brunch art party air plant ugh banh mi shabby chic. Pug cray street art waistcoat polaroid distillery everyday.",
+    "price": "21",
+    "chef": "Mike Douglas",
+    "category": "Brakfast"
+  },
+  {
+    "id": 2,
+    "src": "imgs/lu-1.jpg",
+    "title": "Diner Double",
+    "text": "carry gluten-free gochujang. Portland bicycle rights iPhone tattooed vinyl glossier raw denim skateboard gentrify butcher freegan migas messenger bag cloud bread affogato. Salvia williamsburg chicharrones, chia tumeric four dollar toast flexitarian pinterest gastropub flannel?",
+    "price": "3",
+    "chef": "Leslie Fleming",
+    "category": "Lunch"
+  },
+  {
+    "id": 3,
+    "src": "imgs/lu-2.jpg",
+    "title": "Egg Attack",
+    "text": "Kale chips brunch put a bird on it, beard meggings microdosing literally kitsch wayfarers banjo selfies blog unicorn. Gluten-free try-hard fingerstache drinking vinegar DIY, iceland hella mumblecore taxidermy whatever. Glossier unicorn single-origin",
+    "price": "27",
+    "chef": "Keagan Vickers",
+    "category": "Lunch"
+  },
+  {
+    "id": 4,
+    "src": "imgs/s-1.jpg",
+    "title": "Banana Milkshake",
+    "text": "coffee thundercats next level. Tattooed art party butcher, mumblecore kickstarter waistcoat iceland you probably haven't heard of them +1 viral swag banh mi mustache copper mug. Live-edge vape lyft drinking vinegar locavore. Photo booth gluten-free paleo glossier, you probably haven't heard of them mustache vexillologist single-origin coffee skateboard fingerstache pug. Brooklyn tumeric health goth lyft.",
+    "price": "5",
+    "chef": "Graham Portillo",
+    "category": "Shakes"
+  },
+  {
+    "id": 5,
+    "src": "imgs/lu-3.jpg",
+    "title": "American Classic",
+    "text": " umami echo park hammock activated charcoal taiyaki live-edge irony pickled twee kickstarter. Mustache shoreditch taiyaki pinterest raclette. Pork belly quinoa migas bicycle rights beard.",
+    "price": "4",
+    "chef": "Nazia Gonzales",
+    "category": "Lunch"
+  },
+  {
+    "id": 6,
+    "src": "imgs/bf-2.jpg",
+    "title": "rhubarb salad",
+    "text": "You probably haven't heard of them everyday carry cornhole copper mug cliche. Bushwick man braid fashion axe bespoke schlitz. VHS ethical kitsch, umami echo park hammock activated charcoal taiyaki.",
+    "price": "16",
+    "chef": "Walter Wang",
+    "category": "Brakfast"
+  },
+  {
+    "id": 7,
+    "src": "imgs/s-2.jpg",
+    "title": "Vanilla Milkshake",
+    "text": "Cornhole fanny pack butcher truffaut, enamel pin typewriter quinoa roof party tofu pok pok tbh asymmetrical try-hard. Tattooed lumbersexual tousled pabst ramps stumptown narwhal. Lo-fi man bun.",
+    "price": "22",
+    "chef": "Jamie-Leigh Butler",
+    "category": "Shakes"
+  },
+  {
+    "id": 8,
+    "src": "imgs/lu-4.jpg",
+    "title": "burger king",
+    "text": "polaroid flexitarian. Venmo polaroid meditation schlitz art party. Bicycle rights letterpress shoreditch crucifix dreamcatcher keffiyeh. Yuccie typewriter lomo normcore kogi distillery. Gluten-free food truck selvage man braid readymade polaroid.",
+    "price": "19",
+    "chef": "Usmaan Ali",
+    "category": "Lunch"
+  },
+  {
+    "id": 9,
+    "src": "imgs/bf-3.jpg",
+    "title": "Bacon Overflow",
+    "text": "booth bushwick put a bird on it coloring book. Craft beer vaporware fam af salvia. Plaid cold-pressed typewriter fingerstache, master cleanse roof party post-ironic kitsch photo booth mlkshk. Cray irony keytar mlkshk, chillwave palo santo subway tile master cleanse williamsburg XOXO offal blog paleo DIY adaptogen.",
+    "price": "29",
+    "chef": "Malaika Davison",
+    "category": "Brakfast"
+  },
+  {
+    "id": 10,
+    "src": "imgs/s-3.jpg",
+    "title": "Cookies and Cream Milkshake",
+    "text": "Health goth wayfarers gastropub blog. Roof party viral cronut venmo taxidermy woke. Wayfarers 3 wolf moon copper mug seitan. +1 readymade waistcoat, biodiesel knausgaard synth meh polaroid banjo man bun 90's paleo.",
+    "price": "15",
+    "chef": "Cheyanne Arnold",
+    "category": "Shakes"
+  },
+  {
+    "id": 11,
+    "src": "imgs/bf-4.jpg",
+    "title": "spring onion fritters",
+    "text": "Single-origin coffee offal chicharrones YOLO vexillologist keffiyeh cornhole narwhal chia. Edison bulb kombucha meditation tumeric, hella brunch scenester austin bicycle rights. Viral trust fund wayfarers tattooed, +1 live-edge bicycle rights sustainable waistcoat franzen occupy sartorial hammock cloud bread. Post-ironic",
+    "price": "11",
+    "chef": "Yuvaan Britt",
+    "category": "Brakfast"
+  },
+  {
+    "id": 12,
+    "src": "imgs/lu-5.jpg",
+    "title": "pepper bread",
+    "text": "taxidermy art party bicycle rights ennui, distillery crucifix tacos butcher. Small batch selfies shoreditch pinterest snackwave selvage ramps, woke ennui tote bag hot chicken swag unicorn keffiyeh. Lyft woke umami, roof party williamsburg +1 flexitarian gluten-free helvetica brooklyn. Man braid messenger bag hashtag gochujang biodiesel before they sold out wolf sartorial.",
+    "price": "24",
+    "chef": "Mike Douglas",
+    "category": "Lunch"
+  },
+  {
+    "id": 13,
+    "src": "imgs/s-4.jpg",
+    "title": "Strawberry Milkshake",
+    "text": "Crucifix gentrify direct trade, bitters plaid shaman live-edge normcore freegan church-key slow-carb hoodie health goth craft beer helvetica. Tumeric marfa meggings, air plant four dollar toast copper mug cornhole. Wolf iceland four dollar toast leggings small batch migas affogato try-hard. Deep v cold-pressed raw denim lyft.",
+    "price": "6",
+    "chef": "Usmaan Ali",
+    "category": "Shakes"
+  },
+  {
+    "id": 14,
+    "src": "imgs/s-5.jpg",
+    "title": "Mango Milkshake",
+    "text": "Chambray wolf vice fixie pabst pour-over, twee chia semiotics af. Synth pickled ugh butcher flexitarian etsy air plant cloud bread meditation normcore man braid crucifix raw denim. PBR&B ugh hoodie viral, glossier intelligentsia tattooed mlkshk listicle stumptown photo",
+    "price": "8",
+    "chef": "Cheyanne Arnold",
+    "category": "Shakes"
+  },
+  {
+    "id": 15,
+    "src": "imgs/bf-5.jpg",
+    "title": "mango crepes",
+    "text": "vexillologist blue bottle XOXO cred. Paleo salvia ennui semiotics meditation meggings pabst four loko forage franzen kickstarter. Craft beer everyday carry listicle jean shorts plaid farm-to-table tofu YOLO wolf synth helvetica palo santo. Aesthetic pour-over cold-pressed kombucha.",
+    "price": "21",
+    "chef": "Mike Douglas",
+    "category": "Brakfast"
+  }
+]

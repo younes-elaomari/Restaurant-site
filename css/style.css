@@ -1,0 +1,107 @@
+.mainheader {
+  background-image: url("../imgs/header.jpg");
+  background-position: center center;
+  background-size: cover;
+}
+
+.navbar-brand {
+  color: #ffffff !important;
+}
+
+.background {
+  background-color: rgba(27, 20, 100, 0.6);
+  height: 100vh;
+  display: -ms-grid;
+  display: grid;
+  place-items: center;
+}
+
+.green li a,
+.green {
+  color: #28a745 !important;
+}
+
+.deadline {
+  color: #ffffff;
+  display: -webkit-box !important;
+  display: -ms-flexbox !important;
+  display: flex !important;
+}
+
+.art {
+  color: #eeddc4;
+  margin-top: 60px !important;
+}
+
+.header-btn {
+  color: #fff !important;
+}
+
+.btn-outline-success {
+  margin-bottom: 70px;
+}
+
+.show-img {
+  display: none;
+  position: absolute;
+  background-color: #ffffff;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.show-img-content {
+  position: relative;
+}
+
+.show {
+  display: block;
+}
+
+i {
+  cursor: pointer;
+}
+
+.c-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: #28a745 !important;
+  font-size: 20px !important;
+}
+
+.slider {
+  position: relative;
+}
+
+.fa-long-arrow-alt-left,
+.fa-long-arrow-alt-right {
+  color: #28a745 !important;
+  font-size: 24px !important;
+  position: absolute;
+  top: 40%;
+}
+
+.fa-long-arrow-alt-left {
+  left: 0;
+}
+
+.fa-long-arrow-alt-right {
+  right: 0;
+}
+
+.card {
+  cursor: pointer;
+}
+
+.album {
+  margin-top: -40px;
+}
+
+@media screen and (max-width: 770px) {
+  .gallery-img {
+    width: 400px;
+  }
+}
+/*# sourceMappingURL=style.css.map */
